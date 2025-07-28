@@ -1,2 +1,4 @@
 print("Olá Mundo")
-print('testando o comit')
+print('testando o commit')
+
+#git add .
