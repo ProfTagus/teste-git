@@ -4,4 +4,5 @@ print('testando o commit')
 # git add .
 # git commit -m "Adicionando o arquivo main.py"
 # git push origin main
-# git status
+# git statusgit ini
+# aberto no terminal na residencia
